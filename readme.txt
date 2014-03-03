@@ -13,3 +13,5 @@ dev
 
 
 Creating a new branch is quick AND simple:feature1
+
+I'm trying to testa new mode in whick git forbids fast forword 
