@@ -11,4 +11,5 @@ Git is free software distributed under the GPL.
 
 ..zhaotuan
 
-stupid boss
+
+zhaotuan is a boy
